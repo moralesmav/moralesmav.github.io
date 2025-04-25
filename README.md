@@ -1,6 +1,9 @@
 Associate Professor
+
 Flight Mechanics Group
+
 Department of Aeronautical and Aerospace Engineering
+
 [Aeronautics Institute of Technology](http://www.ita.br)
 
 
