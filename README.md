@@ -1,8 +1,8 @@
 <img src="/assets/images/foto-RG-CPF-Mauricio-Morales-atual-P&B.jpg" width="100">
 
-Associate Professor  
-Flight Mechanics Group  
-Department of Aeronautical and Aerospace Engineering  
+[Associate Professor](http://www.ita.br/~mauriciomorales)  
+[Flight Mechanics Group](https://sites.google.com/view/labnewconcepts/flight-physics)  
+[Department of Aeronautical and Aerospace Engineering](http://www.ita.br/aer)  
 [Aeronautics Institute of Technology](http://www.ita.br/~mauriciomorales)
 
 ### Research Interests
