@@ -1,16 +1,15 @@
-# Morales, M.A.V.
 <img src="/assets/images/foto-RG-CPF-Mauricio-Morales-atual-P&B.jpg" width="100">
 
 Associate Professor  
 Flight Mechanics Group  
 Department of Aeronautical and Aerospace Engineering  
-[Aeronautics Institute of Technology](http://www.ita.br)
+[Aeronautics Institute of Technology](http://www.ita.br/~mauriciomorales)
 
 ### Research Interests
 Flight Mechanics, Aircraft Performance, Trajectory Optimization, Flight Dynamics and Control.
 
 ### Curriculum
-[Google Scholar](https://scholar.google.com/citations?user=syECR14AAAAJ&hl), [Currículo Lattes](http://lattes.cnpq.br/9213259689156118), [Orcid](https://orcid.org/0000-0002-2911-9238), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191905807)
+[Currículo Lattes](http://lattes.cnpq.br/9213259689156118), [Google Scholar](https://scholar.google.com/citations?user=syECR14AAAAJ&hl), [Orcid](https://orcid.org/0000-0002-2911-9238), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191905807)
 
 ### Education
 Aeronautics Institute of Technology:
