@@ -3,7 +3,7 @@
 [Associate Professor](http://www.ita.br/~mauriciomorales)  
 [Flight Mechanics Group](https://sites.google.com/view/labnewconcepts/flight-physics)  
 [Department of Aeronautical and Aerospace Engineering](http://www.ita.br/aer)  
-[Aeronautics Institute of Technology](http://www.ita.br/~mauriciomorales)
+[Aeronautics Institute of Technology](http://www.ita.br)
 
 ### Research Interests
 Flight Mechanics, Aircraft Performance, Trajectory Optimization, Flight Dynamics and Control.
