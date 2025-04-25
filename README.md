@@ -1,8 +1,9 @@
 <img src="/assets/images/foto-RG-CPF-Mauricio-Morales-atual-P&B.jpg" width="100">
-  Associate Professor
-  Flight Mechanics Group
-  Department of Aeronautical and Aerospace Engineering
-  [Aeronautics Institute of Technology](http://www.ita.br)
+
+Associate Professor  
+Flight Mechanics Group  
+Department of Aeronautical and Aerospace Engineering  
+[Aeronautics Institute of Technology](http://www.ita.br)
 
 ### Research Interests
 Flight Mechanics, Aircraft Performance, Trajectory Optimization, Flight Dynamics and Control.
