@@ -13,7 +13,7 @@ Executive and Defense
 [Aeronautics Institute of Technology](http://www.ita.br)
 
 ### Interests
-Flight Mechanics, Flight Dynamics and Control, Flight Test, Aircraft Performance, Trajectory Optimization.
+Flight Mechanics, Flight Dynamics and Control, Flight Testing, Aircraft Performance, Trajectory Optimization.
 
 ### Publications
 [Currículo Lattes](http://lattes.cnpq.br/9213259689156118), [Google Scholar](https://scholar.google.com/citations?user=syECR14AAAAJ&hl), [Orcid](https://orcid.org/0000-0002-2911-9238), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191905807)
